@@ -1,0 +1,7 @@
+C:\Users\seyda\MyBlankSolution\01_csharpegitim\bin\Debug\01_csharpegitim.exe.config
+C:\Users\seyda\MyBlankSolution\01_csharpegitim\bin\Debug\01_csharpegitim.exe
+C:\Users\seyda\MyBlankSolution\01_csharpegitim\bin\Debug\01_csharpegitim.pdb
+C:\Users\seyda\MyBlankSolution\01_csharpegitim\obj\Debug\01_csharpegitim.csproj.AssemblyReference.cache
+C:\Users\seyda\MyBlankSolution\01_csharpegitim\obj\Debug\01_csharpegitim.csproj.CoreCompileInputs.cache
+C:\Users\seyda\MyBlankSolution\01_csharpegitim\obj\Debug\01_csharpegitim.exe
+C:\Users\seyda\MyBlankSolution\01_csharpegitim\obj\Debug\01_csharpegitim.pdb

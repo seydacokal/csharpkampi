@@ -1,0 +1,7 @@
+C:\Users\seyda\MyBlankSolution\01_TemelKonular\bin\Debug\01_TemelKonular.exe.config
+C:\Users\seyda\MyBlankSolution\01_TemelKonular\bin\Debug\01_TemelKonular.exe
+C:\Users\seyda\MyBlankSolution\01_TemelKonular\bin\Debug\01_TemelKonular.pdb
+C:\Users\seyda\MyBlankSolution\01_TemelKonular\obj\Debug\01_TemelKonular.csproj.AssemblyReference.cache
+C:\Users\seyda\MyBlankSolution\01_TemelKonular\obj\Debug\01_TemelKonular.csproj.CoreCompileInputs.cache
+C:\Users\seyda\MyBlankSolution\01_TemelKonular\obj\Debug\01_TemelKonular.exe
+C:\Users\seyda\MyBlankSolution\01_TemelKonular\obj\Debug\01_TemelKonular.pdb

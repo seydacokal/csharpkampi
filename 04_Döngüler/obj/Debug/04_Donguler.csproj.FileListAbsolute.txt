@@ -1,0 +1,7 @@
+C:\Users\seyda\MyBlankSolution\04_Döngüler\bin\Debug\04_Döngüler.exe.config
+C:\Users\seyda\MyBlankSolution\04_Döngüler\bin\Debug\04_Döngüler.exe
+C:\Users\seyda\MyBlankSolution\04_Döngüler\bin\Debug\04_Döngüler.pdb
+C:\Users\seyda\MyBlankSolution\04_Döngüler\obj\Debug\04_Donguler.csproj.AssemblyReference.cache
+C:\Users\seyda\MyBlankSolution\04_Döngüler\obj\Debug\04_Donguler.csproj.CoreCompileInputs.cache
+C:\Users\seyda\MyBlankSolution\04_Döngüler\obj\Debug\04_Döngüler.exe
+C:\Users\seyda\MyBlankSolution\04_Döngüler\obj\Debug\04_Döngüler.pdb
